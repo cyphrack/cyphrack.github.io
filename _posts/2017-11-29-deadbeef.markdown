@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "0xdeadbeef"
+date:   2017-11-29 17:58:17 -0600
+categories: rants
+---
+
+Este es el primer post que escribo en Jekyll. Espero que no sea el ultimo
